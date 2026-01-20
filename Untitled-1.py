@@ -1,8 +1,9 @@
 import numpy
 
-arr = numpy.array([1, 2, 3, 4, 6])
+arr = numpy.array([1, 2, 3, 4, 7])
 
 print(arr)
+
 
 
 
